@@ -35,6 +35,33 @@ AT90USB162
 
 BIN A MIDDLE
 ------------------------------------
+0541044031 - 0.5mm 40pin bottom
+0541044033 - 0.5mm 40pin top
+0541324062 - 0.5mm 40pin bottom
+0522070660 - 1mm 6pin top
+0524353071 - 0.5mm 30pin top
+5016285191 - 0.3mm 51pin bottom
+0545482071 - 0.5mm 20pin bottom
+0541045031 - 0.5mm 50mm top
+0522071260 - 1mm 12pin top
+5019125190 - 0.3mm 51pin bottom
+0522071860 - 1mm 18pin top
+0527452097 - 0.5mm 20pin top
+5031820852 - MicroSD
+5009010801 - MicroSD
+49225-0821 - MicroSD
+0475310001 - 4pin battery con.
+0781715006 - 6pin ezmate
+0781725006 - 6pin ezmate housing
+1050170001 - MicroUSB
+0473460001 - MicroUSB
+10118192-0001lf - MicroUSB
+USB-A1HSB6 - USB TYPE A
+MINI-USB TYPE AB
+MINI-USB TYPE B
+NOKIA 6100 CONNECTORS
+3 WAY NAV (EDGE TYPE)
+20021121-00010C4LF - 1.27 X 1.27 MM HEADER 2X5
 
 BIN A RIGHT
 ------------------------------------
